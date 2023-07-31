@@ -1,2 +1,2 @@
 # shared-memory-sandbox
-Sandbox
+Toy examples. Ignore this repository. But do not delete it.
